@@ -1,0 +1,159 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	font-family: Arial, Helvetica, sans-serif;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	background-repeat: repeat;
+	color: #F0F0F0;
+	background-color: #B08000;
+	}
+img{
+	border:none;
+	}
+h1,h2,h3,h4,h5,h6{
+	margin:0;
+	padding:0;
+	}
+h1{
+	margin:0.5em 0;
+	}
+h2{
+	color:#4d4d4d;
+	font-size:14px;
+	}
+
+a{
+	color:#0975a2;
+	text-decoration:none;
+	background-color: #B08000;
+	}
+a:hover{
+	color:#004c6b;
+	text-decoration:none;
+	}
+/* logo */
+.logo{
+	text-align: center;
+	margin: 10px 0 0 0;
+	padding: 0;
+	background-repeat: no-repeat;
+	background-color: #B08000;
+	}
+.logo a{
+	display:block;
+	padding:10px;
+	background-repeat: no-repeat;
+}
+/* menu */
+.menu{
+	margin:20px 10px;
+	padding:0;
+	background-color: #CCC;
+	}
+.menu a{
+	font-size: 12px;
+	font-weight: normal;
+	display: block;
+	border: 1px solid #999;
+	color: #FFFFFF;
+	padding: 10px;
+	margin: 10px 0;
+	-moz-border-radius: 2px;
+	-webkit-border-radius: 2px;
+	border-radius: 2px;
+	-moz-box-shadow: 0 2px 4px #aaaaaa;
+	-webkit-box-shadow: 0 2px 4px #aaaaaa;
+	box-shadow: 0 2px 4px #aaaaaa;
+	background-color: #066;
+	background-repeat: repeat-x;
+	}
+.menu a:hover{
+	color: #006;
+	-moz-box-shadow: none;
+	-webkit-box-shadow: none;
+	box-shadow: none;
+	font-weight: bold;
+	background-color: #34655D;
+	}
+/* content */
+.content{
+	font-size:12px;
+	color:#4d4d4d;
+	line-height:2em;
+	margin:5px;
+	padding:0;
+	}
+.content h2{
+	margin:0 0 0 5px;
+	padding:0;
+	}
+.content p{
+	text-align:left;
+	margin:0 5px 5px 5px;
+	line-height:2em;
+	padding:0;
+	}
+/* footer */
+.footer{
+	border-top: 2px solid #565656;
+	font-size: 12px;
+	margin: 10px 0 0 0;
+	padding: 5px 0;
+	background-color: #996633;
+	}
+.footer p{
+	color:#FFF;
+	font-size:12px;
+	text-align:center;
+	margin:5px;
+	}
+.footer p a{
+	color:#2d2d2d;
+	padding:5px;
+	}
+.footer p a:hover{
+	color:#2d2d2d;
+	}
+/* clear */
+.clear{
+	clear:both;
+	}
+.code{
+	padding:0;
+	border:1px dotted #bbbbbb;
+	}
+.numbering{
+	background:#f2f2f2;
+	color:#bbbbbb;
+	padding:2px 5px;
+	}
+.tag{
+	color:#0975a2;
+	}
+.program{
+	color:#ff003c;
+	}
+.head{
+	padding:5px;
+	color:#FFFFFF;
+	background:#2d2d2d;
+	}	
+.logo p {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-weight: bold;
+	color: #FFF;
+}
+.footer {
+	background-color: #066;
+}
+.menu {
+	background-color: #B08000;
+}
+.menu a strong {
+	font-weight: bold;
+}
+.menu a strong {
+	font-weight: bold;
+}

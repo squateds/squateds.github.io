@@ -1,0 +1,8 @@
+Thanks for downloading this theme!
+
+Theme Name: Knight
+Theme URL: https://bootstrapmade.com/knight-free-bootstrap-theme/
+Author: BootstrapMade
+Author URL: https://bootstrapmade.com
+Devoloper : https://awdev.eu.org
+Chekout : https://www.paypal.com/checkoutnow?sessionID=uid_869287c581_mty6ntq6ndq&buttonSessionID=uid_68b163c148_mty6ntu6mta&stickinessID=uid_fd5db1ef11_mty6ntq6ndq&smokeHash=&sign_out_user=false&fundingSource=paypal&buyerCountry=ID&locale.x=en_GB&commit=true&client-metadata-id=uid_869287c581_mty6ntq6ndq&clientID=AateF2jHphBly8X9gpDNlq45HhqKlNPlA3E96UyzyVDiMmzUebaAlilVFTVQWgE9E-1VKpX1cbkAw3UA&env=production&sdkMeta=eyJ1cmwiOiJodHRwczovL3d3dy5wYXlwYWwuY29tL3Nkay9qcz9jbGllbnQtaWQ9QWF0ZUYyakhwaEJseThYOWdwRE5scTQ1SGhxS2xOUGxBM0U5NlV5enlWRGlNbXpVZWJhQWxpbFZGVFZRV2dFOUUtMVZLcFgxY2JrQXczVUEmdmF1bHQ9dHJ1ZSZpbnRlbnQ9c3Vic2NyaXB0aW9uIiwiYXR0cnMiOnsiZGF0YS1zZGstaW50ZWdyYXRpb24tc291cmNlIjoiYnV0dG9uLWZhY3RvcnkiLCJkYXRhLXVpZCI6InVpZF9tamhuYmR2dGpxc2VnaHppZXVvZWFidGh6anJsYmcifX0&xcomponent=1&version=5.0.431&token=87U54706H8802252D
