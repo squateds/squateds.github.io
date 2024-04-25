@@ -183,9 +183,7 @@ Pages
 
 *   [Home](http://www.awdev.eu.org/)
 
-(adsbygoogle = window.adsbygoogle || \[\]).push({});
-
-#follow { position: fixed !important; position: absolute; bottom: 25px; withd: 20px; z-index: 998; } 
+* [Github Conect](https://github.com/login?return_to=%2Fsponsors%2Fawdevmyid%2Fsponsorships%3Ftier_id%3D323120)
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1sx-3I6YDjyrq1JXg4C1xcy-PTgySbIoJmer94zhMHcMDcdM5YbIjoYg2Ru0lfG66vagO3M_qBgpryn3LTHMM7xVzEKQ930a13XfH6-sWOlpRt39xUJmB2jSVwE6V0hyphenhyphenmJkZsEGVi05JdFh0gos6nYtqlZF2nfjn1xei4At7IE2I2BbYta3bQCUn4iTc/s1600-rw/Follow%20my%20blog.gif )](https://www.blogger.com/follow-blog.g?blogID=254521912970371658  "Follow")
 
